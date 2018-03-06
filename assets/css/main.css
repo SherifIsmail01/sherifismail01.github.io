@@ -1,4 +1,9 @@
-/* custom styles */
-.container-fluid {
+body {
 	background-color: #0A122A;
 }
+
+.main-header {
+	color: white;
+}
+
+

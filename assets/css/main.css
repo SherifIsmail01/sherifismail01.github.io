@@ -1,17 +1,28 @@
 body {
-	background-color: #0A122A;
+	background-color: #0B243B;
 }
 
 .main-header {
+	text-align: center;
+  	background-color: purple;
 	color: white;
+  	height: 40px;
 }
 
-.jumbotron {
-  background-size: cover;
-  background-repeat: no-repeat;
+
+.app-header {
   margin-bottom: 0px;
 }
 
-.jumbotron .container {
-  height: 150px;
+.projects {
+	color: white;
+}
+
+.card {
+	display: inline-block;
+	vertical-align: center;
+}
+
+.card-head {
+	color: white;
 }

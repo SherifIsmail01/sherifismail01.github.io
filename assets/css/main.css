@@ -6,4 +6,12 @@ body {
 	color: white;
 }
 
+.jumbotron {
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+}
 
+.jumbotron .container {
+  height: 150px;
+}

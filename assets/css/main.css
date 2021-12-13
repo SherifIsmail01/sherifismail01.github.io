@@ -13,17 +13,17 @@
 
 .page-title {
 	color: black;
+  text-align: center;
 }
 
-.first-button {
-	margin-left: 20px;
-	margin-top: 3px;
+.github-button {
+  margin-right: 20px;
+	margin-top: 10px;
 }
 
-.second-button {
-	margin-left: 20px;
+.linkedin-button {
 	margin-right: 20px;
-	margin-top: 3px;
+	margin-top: 10px;
 }
 .third-button {
   margin-left: 0px;
@@ -76,7 +76,7 @@ canvas {
 
 .card-header {
 	background-color: #581e89;
-	height: 70px;
+	height: 60px;
 }
 
 .wrapper{
